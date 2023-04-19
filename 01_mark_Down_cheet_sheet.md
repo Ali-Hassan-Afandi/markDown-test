@@ -219,6 +219,7 @@ install the extension for making it easier
 
 - mark down all in one
 - vs pdf etc
+
 # 14- Colors to the texts
  - for giving colors to the text use *"<> and <spna style=color:nameOfColor>*"\
 <spna Style= "color:red">
@@ -234,7 +235,7 @@ $This_{is}^{inline}$
 
 
 > math block (mathJax reviews on git hub)
-- math block can be used also $$ sign\
+- math block can also be used by  $$ sign\
 
 $$
 \int_0^\infty\frac{x^3}{e^x-1}\dx
