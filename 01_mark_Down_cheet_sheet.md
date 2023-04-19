@@ -242,4 +242,4 @@ $$
 = \frac{pi^4}{15}
 $$
 
-### this is the new addition for checking the staged then commit and check the result in git repository.
+### this is the new addition for checking the staged changing then commit and check the result in git repository
