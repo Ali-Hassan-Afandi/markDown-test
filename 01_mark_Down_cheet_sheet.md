@@ -6,6 +6,12 @@
 
 # 1-Headings
 How to give headings?
+It is very simple, a hashtag "#" can create a Heading NO 1
+Normaly, while drafting any document for either educational or professional purpose 
+it is the beauty of writting to highlight the main or key word for the convienance of 
+the reader. 
+| "#" is used for giving a Heading 1.
+
 
 # Heading 1 (it gives an auto line under this)
 ## Heading *2*
